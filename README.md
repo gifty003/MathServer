@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:05/10/23
+## Date:
 
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
@@ -143,11 +143,13 @@ def rectarea(request):
 
 ```
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/gifty003/MathServer/assets/145822352/31b4af7a-edd4-4f6b-98ec-10ee9dfda013)
+<img width="1288" height="694" alt="Screenshot 2025-11-27 010645" src="https://github.com/user-attachments/assets/5fe85b01-1352-464d-8b4e-84cdf79236a3" />
+
 
 
 ## HOMEPAGE:
-![image](https://github.com/gifty003/MathServer/assets/145822352/44d275c5-8899-4421-946e-72e14708870d)
+<img width="1288" height="689" alt="Screenshot 2025-11-27 010658" src="https://github.com/user-attachments/assets/732e499f-3737-4c6c-8417-e0dc2d04f55f" />
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
